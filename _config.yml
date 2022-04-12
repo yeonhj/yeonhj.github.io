@@ -288,3 +288,6 @@ defaults:
       comments: # true
       share: true
       related: true
+
+published: true
+future: true
